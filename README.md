@@ -7,8 +7,7 @@
 - 原理基于恩山pidge的
 [[恩山]分享小米R4A千兆版编译OPENWRT(Breed直刷版)](https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4052254)
 
-- 如果实在不想编译固件可以用恩山cool_rose的固件，或者是到[Releases](https://github.com/Plutonium141/XiaoMi-R4A-Gigabit-Actions-OpenWrt/releases)里去下载最近编译好的固件
-[[恩山] [R4A] lean源码openwrt固件小米4A千兆版 文件管理+清新主题+ipv6+广告屏蔽](https://www.right.com.cn/forum/thread-4083541-1-1.html)
+- 如果实在不想编译固件可以到[Releases](https://github.com/Plutonium141/XiaoMi-R4A-Gigabit-Actions-OpenWrt/releases)里去下载最近编译好的固件
 
 - 已有小米R4A千兆版但是不知道怎么刷?可以去恩山看kan1111的
 [[恩山] [R4A] 【2020.04.23】win10 “傻瓜版”小米4A千兆版 NO拆机 刷Padavan](https://www.right.com.cn/forum/thread-4007071-1-1.html)
